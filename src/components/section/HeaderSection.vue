@@ -5,7 +5,7 @@
     </a>
 
     <div class="header__inner">
-      <div class="header__banner" style="background-image: url('/public/main.jpg')"></div>
+      <div class="header__banner" style="background-image: url('../../assets/image/main.jpg')"></div>
     </div>
   </header>
 </template>
